@@ -3,7 +3,7 @@
 .wrap {
     width: 90%;
     margin: 0 auto;
-    color: red;
+    color: $vermelho;
 }
 
 .medium-grid {
@@ -24,7 +24,7 @@
     grid-column: 1 / 6;
     grid-row: 1;
     padding: 10px 0;
-    background: $azul;
+    background: $branco;
 }
 
 

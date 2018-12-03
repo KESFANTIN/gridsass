@@ -9,7 +9,12 @@
            "extensionName": ".min.css",
            "format": "compressed",
            "savePath": "/css/compressed/"
-       }
+       },
+       {
+        "extensionName": ".css",
+        "format": "nested",
+        "savePath": "/css/"
+    }
    ],
    "liveSassCompile.settings.excludeList": [
       "**/node_modules/**",
